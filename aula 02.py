@@ -22,7 +22,6 @@
 #input:
 nome = 'pedrinho'
 ano = 13
-
-print(f"o {nome} tem {ano} de idade")
+#print(f"o {nome} tem {ano} de idade")
 msg = f"o {nome} tem {ano} de idade"
 print(msg)

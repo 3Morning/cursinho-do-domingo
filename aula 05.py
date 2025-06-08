@@ -15,9 +15,9 @@
 #espaço amplo
 #precisa da palavra-chave
 
-import random
-numero_aleatorio = random.randrange(11)
-print(f"o {numero_aleatorio} que caiu na roleta")
+#import random
+#numero_aleatorio = random.randrange(11)
+#print(f"o {numero_aleatorio} que caiu na roleta")
 
 #try:
     #numero = int(input("digite um número:"))

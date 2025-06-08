@@ -31,6 +31,7 @@
     #print("idoso")
 #----------------------------------------------------------------
 #operações logicas:
+
 #tabela verdade (v = verdadeiro e f = falso)
 #|v|V|= v (retorno verdadeiro)
 #|v|F|= f (retorno falso)
